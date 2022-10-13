@@ -8,7 +8,7 @@
 
 # Delicious Restaurent Page
 
-> Project 2
+> PROJECT 2
 
 |**Description**|
 |-----------|
